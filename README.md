@@ -12,10 +12,10 @@ To run the game simply clone the repository and run the file from the command li
 
 ## Controls
 
-Left arrow  - move piece left
-Right arrow - move piece right
-Up arrow    - rotate piece 90 degrees
-Down arrow  - move piece down
-Space bar   - drop piece all the way to the bottom
+Left arrow  - move piece left  
+Right arrow - move piece right  
+Up arrow    - rotate piece 90 degrees  
+Down arrow  - move piece down  
+Space bar   - drop piece all the way to the bottom  
 
 Enjoy!
