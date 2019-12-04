@@ -1,5 +1,5 @@
 # Tetris
-Fully functional Tetris made with pygame.
+Tetris made with pygame.
 
 ## Install
 You need to have Python (Version 3.x) and pygame installed to run this program.
